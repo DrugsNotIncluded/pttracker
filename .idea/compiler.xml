@@ -6,16 +6,20 @@
         <outputRelativeToContentRoot value="true" />
         <option name="defaultObfuscationEnv" value="searge" />
         <option name="mappingTypes" value="tsrg" />
-        <option name="outRefMapFile" value="$PROJECT_DIR$/forge/build/mixin/examplemod.refmap.json" />
-        <option name="outTsrgFile" value="$PROJECT_DIR$/forge/build/mixin/examplemod.refmap.json.mappings.tsrg" />
+        <option name="outRefMapFile" value="$PROJECT_DIR$/forge/build/mixin/pttracker.refmap.json" />
+        <option name="outTsrgFile" value="$PROJECT_DIR$/forge/build/mixin/pttracker.refmap.json.mappings.tsrg" />
         <option name="pluginVersion" value="0.7" />
         <option name="reobfTsrgFile" value="$PROJECT_DIR$/forge/build/moddev/artifacts/namedToIntermediate.tsrg" />
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5-SNAPSHOT/98b6c982030c7e9d79d3e78b31d86b285f292146/mixin-0.8.5-SNAPSHOT-processor.jar" />
         </processorPath>
-        <module name="PlayerTimeTracker1201.forge.main" />
+        <module name="pttracker.forge.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="17" />
+    <bytecodeTargetLevel target="17">
+      <module name="PlayerTimeTracker1201.buildSrc" target="21" />
+      <module name="PlayerTimeTracker1201.buildSrc.main" target="21" />
+      <module name="PlayerTimeTracker1201.buildSrc.test" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -11,8 +11,8 @@ public class DatabaseManager {
     private Connection connection;
     private String dbUrl;
 
-    public DatabaseManager(String host, String dbName, String user, String password) {
-        this.dbUrl = "jdbc:postgresql://" + host + "/" + dbName + "?user=" + user + "&password=" + password;
+    public DatabaseManager(String dbType, String dbHost, String dbName, String user, String password) {
+        this.dbUrl = "jdbc:" + dbType + "://" + dbHost + "/" + dbName + "?user=" + user + "&password=" + password;
         initializeDatabase();
     }
 

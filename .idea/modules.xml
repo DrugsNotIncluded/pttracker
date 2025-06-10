@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PlayerTimeTracker1201.iml" filepath="$PROJECT_DIR$/.idea/modules/PlayerTimeTracker1201.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/PlayerTimeTracker1201.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/PlayerTimeTracker1201.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/PlayerTimeTracker1201.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/PlayerTimeTracker1201.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/PlayerTimeTracker1201.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/PlayerTimeTracker1201.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/PlayerTimeTracker1201.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/PlayerTimeTracker1201.common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/PlayerTimeTracker1201.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/PlayerTimeTracker1201.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/PlayerTimeTracker1201.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/PlayerTimeTracker1201.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/PlayerTimeTracker1201.fabric.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/PlayerTimeTracker1201.fabric.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/PlayerTimeTracker1201.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/PlayerTimeTracker1201.fabric.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/PlayerTimeTracker1201.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/PlayerTimeTracker1201.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/PlayerTimeTracker1201.forge.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/PlayerTimeTracker1201.forge.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/PlayerTimeTracker1201.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/PlayerTimeTracker1201.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/PlayerTimeTracker1201.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/PlayerTimeTracker1201.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/pttracker.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/pttracker.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/pttracker.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/pttracker.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/pttracker.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/pttracker.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/pttracker.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/pttracker.forge.main.iml" />
     </modules>
   </component>
 </project>

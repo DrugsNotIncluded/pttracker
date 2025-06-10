@@ -22,11 +22,11 @@ dependencies {
 
 configurations {
     commonJava {
-        canBeResolved = true
+        canBeResolved = false
         canBeConsumed = true
     }
     commonResources {
-        canBeResolved = true
+        canBeResolved = false
         canBeConsumed = true
     }
 }
