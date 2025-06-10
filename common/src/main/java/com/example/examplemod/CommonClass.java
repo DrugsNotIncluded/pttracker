@@ -24,7 +24,7 @@ public class CommonClass {
     private static final DatabaseConfigObject defaultConfig = new DatabaseConfigObject(
             DatabaseType.POSTGRESQL,
             "localhost",
-            "playtime",
+            "testdb",
             "test",
             "");
 
